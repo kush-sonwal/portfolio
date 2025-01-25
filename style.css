@@ -1,0 +1,21 @@
+.body{
+    background-color: antiquewhite;
+}
+
+.Front-page {
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.title {
+    font-family: 'Playwrite In' , serif;
+    font-size: 3rem;
+}
+
+#title {
+    font-family: 'Lilita One' , serif;
+    font-size: 3rem;
+}
+
