@@ -3,7 +3,7 @@
 This is the place where I showcase my journey as a **tech enthusiast**, with a focus on **cybersecurity** and **front-end development**. Explore my work, skills, and the projects I’m passionate about creating.
 
 🔗 **Live Demo:**  
-Explore my portfolio here: [Portfolio Link](#)
+Explore my portfolio here: [Portfolio Link](https://kush-sonwal.github.io/portfolio/)
 
 ## 🧑‍💻 About Me
 
